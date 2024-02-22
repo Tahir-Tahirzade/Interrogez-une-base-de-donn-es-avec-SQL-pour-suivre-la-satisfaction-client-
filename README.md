@@ -70,7 +70,7 @@
 - Project Management: Meeting deadlines and planning a coherent progression from understanding requirements to presenting results.
 - Adaptability: Willingness to adapt to mentor feedback and adjust methodology accordingly.
 
-
+# REFERENCES
 
 
      
