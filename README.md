@@ -7,7 +7,7 @@
 ## B.Steps:
 
 
-  ### 1.Reformulating Requirements:
+   ### 1.Reformulating Requirements:
 - Verify understanding between the customer service manager and myself by rephrasing the expression of needs using the provided template (see attached "Modèle d’expression des besoins.docx").
 - This involves using the provided template and verifying alignment with Olivier's expectations.
 
@@ -41,7 +41,7 @@
 
 
    ### 7.NPS Documentation:
-      - Address Olivier's request regarding NPS, providing relevant insights and documentation.
+      -Address Olivier's request regarding NPS, providing relevant insights and documentation.
 
 
        
