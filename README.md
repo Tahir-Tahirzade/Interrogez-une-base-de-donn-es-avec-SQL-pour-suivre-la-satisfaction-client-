@@ -41,10 +41,8 @@
 
 
    ### 7.NPS Documentation:
-      -Address Olivier's request regarding NPS, providing relevant insights and documentation.
+     - Address Olivier's request regarding NPS, providing relevant insights and documentation.
 
-
-       
    ### 8.  Presentation Meeting:
     <li>I Planned and conducted a concise, non-technical presentation with Olivier.
         <li>i Recapped of analysis results.
