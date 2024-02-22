@@ -36,11 +36,13 @@
 
   ### 6.Data Consistency Checks:
 
-       <li>Conducted checks for data consistency, ensuring the absence of duplicates, non-null fields as expected, and validation of foreign keys.
+     - Conducted checks for data consistency, ensuring the absence of duplicates, non-null fields as expected, and validation of foreign keys.
+
 
 
    ### 7.NPS Documentation:
-       <li>Address Olivier's request regarding NPS, providing relevant insights and documentation.
+      - Address Olivier's request regarding NPS, providing relevant insights and documentation.
+
 
        
    ### 8.  Presentation Meeting:
