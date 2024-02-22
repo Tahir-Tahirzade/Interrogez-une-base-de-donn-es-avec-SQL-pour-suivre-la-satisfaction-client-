@@ -59,16 +59,17 @@
 ## SKILLS:
 
   #### HARD SKILLS:
-     <li>SQL:Ability to manipulate and manage databases using SQL.
-     <li>Database Management:Experience in loading databases, in this case, using tools like SQLiteStudio.
-     <li>Data Modeling:Skill in creating and updating database models, exemplified by updating the schema with tools like yUML.
-     <li>Technical Documentation:Competency in creating technical documentation, including schema images, dictionary updates, and recording SQL queries and results in a PDF document.
-     
- #### SOFT SKILLS:
-     <li>Communication:Adaptation of communication style to meet the needs of the audience, particularly Olivier who has limited time.
-     <li> Analytical Thinking:Critical thinking in recognizing the limitations of the current database and proposing necessary updates.
-     <li>Project Management:Meeting deadlines and planning a coherent progression from understanding requirements to presenting results.
-     <li>Adaptability:Willingness to adapt to mentor feedback and adjust methodology accordingly.
+- SQL: Ability to manipulate and manage databases using SQL.
+- Database Management: Experience in loading databases, in this case, using tools like SQLiteStudio.
+- Data Modeling: Skill in creating and updating database models, exemplified by updating the schema with tools like yUML.
+- Technical Documentation: Competency in creating technical documentation, including schema images, dictionary updates, and recording SQL queries and results in a PDF document.
+
+  #### SOFT SKILLS:
+- Communication: Adaptation of communication style to meet the needs of the audience, particularly Olivier who has limited time.
+- Analytical Thinking: Critical thinking in recognizing the limitations of the current database and proposing necessary updates.
+- Project Management: Meeting deadlines and planning a coherent progression from understanding requirements to presenting results.
+- Adaptability: Willingness to adapt to mentor feedback and adjust methodology accordingly.
+
 
 
 
